@@ -1,0 +1,297 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #cdeebe;
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+}
+nav ul{
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color: #76d164;
+}
+nav li{
+    display: inline-flex;
+    padding-top: 10px;
+    margin-right: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+}
+.gfw-iframe{
+    position: absolute;
+    top: 1024px;
+}
+.main-container{
+    position: absolute;
+    width: 1440px;
+    height: 187px;
+    left: 0px;
+    top: 87px;
+    background: #98DDA3;
+}
+.main-text1{
+    position: absolute;
+    width: 600px;
+    height: 42px;
+    left: 17px;
+    top: 23px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 34px;
+    line-height: 42px;
+
+    color: #000000;
+}
+.main-text2{
+    position: absolute;
+    width: 869px;
+    height: 40px;
+    left: 17px;
+    top: 84px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 40px;
+    /* identical to box height */
+
+    color: #000000;
+}
+.main-text3{
+    position: absolute;
+    width: 608px;
+    height: 40px;
+    left: 17px;
+    top: 142px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 40px;
+    /* identical to box height */
+
+    color: #000000;
+
+}
+.main-text2-section{
+    text-decoration: none;
+    color: #0B5F22;
+
+}
+.folium-map{
+    position: absolute;
+    top: 307px;
+    left:48px
+}
+.side-container{
+    position: absolute;
+    width: 203px;
+    height: 269px;
+    left: 1206px;
+    top: 307px;
+
+    background: #B4EF98;
+    border-radius: 9px;
+}
+.side-container-text{
+    position: absolute;
+    width: 176px;
+    height: 160px;
+    left: 27px;
+    top: 36px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 34px;
+    line-height: 40px;
+
+    color: #000000;
+}
+.gfw-iframe{
+    position: absolute ;
+    top:1206px;
+    left:48px;
+}
+.gfw-text{
+    position: absolute;
+    width: 624px;
+    height: 56px;
+    left: 48px;
+    top: 1094px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+
+}
+.gfw-container{
+    position: absolute;
+    width: 566px;
+    height: 16px;
+    left: 46px;
+    top: 1153px;
+    
+    background: #AEE69A;
+}
+.nasa-text{
+    position: absolute;
+    width: 687px;
+    height: 56px;
+    left: 46px;
+    top: 1846px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+}
+.nasa-container{
+    position: absolute;
+    width: 750px;
+    height: 16px;
+    left: 46px;
+    top: 1905px;
+
+    background: #AEE69A;
+}
+.nasa-iframe{
+    position: absolute;
+    top:1990px;
+    left:48px;
+}
+.bottom-container{
+    position: absolute;
+    width: 1440px;
+    height: 89px;
+    top: 3072px;
+    background: #73dd91ea;
+}
+.bottom-text-left{
+    position: absolute;
+    width: 204px;
+    height: 59px;
+    left: 71px;
+    top: 22px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #1E1B1B;
+}
+.bottom-text-middle1{
+    position: absolute;
+    top: 11px;
+    left:571px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #1E1B1B;
+}
+.bottom-text-middle2{
+    position: absolute;
+    top: 45px;
+    left:641px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #1E1B1B;
+}
+.bottom-text-middle3{
+    position: absolute;
+    text-decoration: none;
+    top:69px;
+    left:604px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #131212;
+}
+.bottom-text-middle4{
+    position:absolute;
+    text-decoration: none;
+    top:69px;
+    left:746px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #131212;
+}
+.logo{
+    position: absolute;
+    top:18px;
+    left:8px;
+}
+.insta{
+    position: absolute;
+    top:57px;
+    left:1224px;
+}
+.twitter{
+    position: absolute;
+    top:57px;
+    left:1277px;
+}
+.discord{
+    position: absolute;
+    top:57px;
+    left:1326px;
+}
+.github{
+    position: absolute;
+    top:57px;
+    left:1374px;
+}
+.thanks-message{
+    position: absolute;
+    width: 1278px;
+    height: 56px;
+    left: 94px;
+    top: 2885px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+
+}

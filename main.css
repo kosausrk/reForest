@@ -1,0 +1,215 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #B4EF98;
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+}
+nav ul{
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    color: #76d164;
+}
+nav li{
+    display: inline-flex;
+    padding-top: 10px;
+    margin-right: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+}
+.main-svg{
+    position: absolute;
+    left: 0px;
+    top: 512px;
+    z-index: -1;
+}
+.main-heading{
+    position: absolute;
+    width: 1069px;
+    height: 108px;
+    left: 129px;
+    top: 100px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+}
+.main-middle-text{
+    position: absolute;
+    width: 1183px;
+    height: 75px;
+    left: 129px;
+    top: 267px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #000000;
+}
+.main-bottom-text{
+    position: absolute;
+    width: 407px;
+    height: 58px;
+    left: 129px;
+    top: 456px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+}
+.main-button{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    text-decoration: none;
+    left: 135px;
+    top: 575px;;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 35px;
+    width: 187px;
+    height: 43px;
+    background: #40DB6B;
+    color: #000000;
+    border-radius: 7px;
+}
+.main-button:hover{
+    background-color: #69d688;
+}
+.main-last-text{
+    position: absolute;
+    width: 1019px;
+    height: 167px;
+    left: 228px;
+    top: 768px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+}
+.bottom-container{
+    position: absolute;
+    width: 1440px;
+    height: 89px;
+    top: 1024px;
+    background: #73dd91ea;
+}
+.bottom-text-left{
+    position: absolute;
+    width: 204px;
+    height: 59px;
+    left: 71px;
+    top: 22px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #1E1B1B;
+}
+.bottom-text-middle1{
+    position: absolute;
+    top: 11px;
+    left:571px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #1E1B1B;
+}
+.bottom-text-middle2{
+    position: absolute;
+    top: 45px;
+    left:641px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #1E1B1B;
+}
+.bottom-text-middle3{
+    position: absolute;
+    text-decoration: none;
+    top:69px;
+    left:604px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #131212;
+}
+.bottom-text-middle4{
+    position:absolute;
+    text-decoration: none;
+    top:69px;
+    left:746px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #131212;
+}
+.logo{
+    position: absolute;
+    top:18px;
+    left:8px;
+}
+.insta{
+    position: absolute;
+    top:57px;
+    left:1224px;
+}
+.twitter{
+    position: absolute;
+    top:57px;
+    left:1277px;
+}
+.discord{
+    position: absolute;
+    top:57px;
+    left:1326px;
+}
+.github{
+    position: absolute;
+    top:57px;
+    left:1374px;
+}
+
