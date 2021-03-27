@@ -204,9 +204,7 @@ nav li{
 .logo{
     position: absolute;
     top:19%;
-    left: -25%;
-    width:57%;
-    height:79%;
+    left: 1.5%;
 }
 .insta{
     position: absolute;
@@ -311,11 +309,21 @@ you are going to change at a specfic width*/
         left: 93%;
         height: 25%;
     }
+    .logo{
+        top: 51%;
+        width: 38px;
+        height: 40px;
+    }
   }
 
 
 @media screen and (max-width:568px){
     .bottom-text-middle1{
         width: 60%;
+    }
+    .logo{
+        top: 59%;
+        width: 23px;
+        height: 25px;
     }
 }
