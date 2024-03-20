@@ -14,3 +14,7 @@ Features include:
  Water Foutains
  
  Live Demo: https://youtu.be/qT91lhtMzK4 
+
+ All data obtained via https://opendata.cityofnewyork.us/ 
+
+ Utilized API to retrieve environmental data 
