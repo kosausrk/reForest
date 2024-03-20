@@ -17,4 +17,4 @@ Features include:
 
  All data obtained via https://opendata.cityofnewyork.us/ 
 
- Utilized API to retrieve environmental data 
+ Utilized API to retrieve environmental data. Total of 
