@@ -15,6 +15,11 @@ Features include:
  
  Live Demo: https://youtu.be/qT91lhtMzK4 
 
+## Preview:
+![reForest Home](reForest-home.png)
+![reForest Footer](reForest-footer.png)
+![reForest Live](reForest-live.png)
+
  All data obtained via https://opendata.cityofnewyork.us/ 
 
  Utilized API to retrieve environmental data. Total of 8 datasets used. 
